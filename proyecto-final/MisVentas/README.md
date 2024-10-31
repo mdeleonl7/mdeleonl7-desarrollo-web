@@ -18,4 +18,4 @@ Se debe realizar un sistema en entorno web en el que se pueda realizar diferente
 ---
 
 > [!CAUTION]
-> No se realizó el backend.
+> No se realizó el frontend.

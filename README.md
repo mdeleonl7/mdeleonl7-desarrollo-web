@@ -21,3 +21,6 @@ Se encuentra en el módulo: "segundo-parcial" donde encontrará todo lo necesari
 
 > [!IMPORTANT]
 > Segundo parcial, serie 2.
+
+### Proyecto final
+Se encuentra en el módulo: "proyecto-final" donde encontrará el backend.

@@ -1,0 +1,6 @@
+@MisVentas_HostAddress = http://localhost:5144
+
+GET {{MisVentas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

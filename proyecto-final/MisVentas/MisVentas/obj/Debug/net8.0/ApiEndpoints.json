@@ -1,0 +1,191 @@
+[
+  {
+    "ContainingType": "MisVentas.Controllers.ClienteController",
+    "Method": "PostCliente",
+    "RelativePath": "Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "MisVentas.EntidadDto.ClienteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ClienteController",
+    "Method": "GetClientes",
+    "RelativePath": "Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ClienteController",
+    "Method": "UpdateCliente",
+    "RelativePath": "Cliente/{idCliente}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "MisVentas.EntidadDto.ClienteDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ClienteController",
+    "Method": "DeleteCliente",
+    "RelativePath": "Cliente/{idCliente}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProductoController",
+    "Method": "PostProducto",
+    "RelativePath": "Producto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "MisVentas.EntidadDto.ProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProductoController",
+    "Method": "GetProductoes",
+    "RelativePath": "Producto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProductoController",
+    "Method": "UpdateProducto",
+    "RelativePath": "Producto/{idProducto}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Producto",
+        "Type": "MisVentas.EntidadDto.ProductoDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "idProducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProductoController",
+    "Method": "DeleteProducto",
+    "RelativePath": "Producto/{idProducto}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProveedorController",
+    "Method": "PostProveedor",
+    "RelativePath": "Proveedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proveedor",
+        "Type": "MisVentas.EntidadDto.ProveedorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProveedorController",
+    "Method": "GetProveedores",
+    "RelativePath": "Proveedor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProveedorController",
+    "Method": "UpdateProveedor",
+    "RelativePath": "Proveedor/{idProveedor}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Proveedor",
+        "Type": "MisVentas.EntidadDto.ProveedorDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "idProveedor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MisVentas.Controllers.ProveedorController",
+    "Method": "DeleteProveedor",
+    "RelativePath": "Proveedor/{idProveedor}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProveedor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

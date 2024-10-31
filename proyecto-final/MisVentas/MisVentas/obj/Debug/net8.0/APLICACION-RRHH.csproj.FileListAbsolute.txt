@@ -1,0 +1,142 @@
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.exe
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.deps.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.runtimeconfig.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfo.cs
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.APLICACION-RRHH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.build.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\scopedcss\bundle\APLICACION-RRHH.styles.css
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACI.FB229B0B.Up2Date
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\refint\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.genruntimeconfig.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\ref\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.exe
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.deps.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.runtimeconfig.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfo.cs
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.sourcelink.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.APLICACION-RRHH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.build.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APLICACION-RRHH.props
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\scopedcss\bundle\APLICACION-RRHH.styles.css
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACI.FB229B0B.Up2Date
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\refint\APLICACION-RRHH.dll
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.genruntimeconfig.cache
+C:\Users\ferna\Desktop\ARCHIVOS DE LA UNIVERSIDAD\SEXTO SEMESTRE\BASE DE DATOS I\FASE IV\PROGRAMA RRHH\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\ref\APLICACION-RRHH.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\appsettings.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.exe
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.deps.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.runtimeconfig.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.AssemblyReference.cache
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfoInputs.cache
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.AssemblyInfo.cs
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.csproj.CoreCompileInputs.cache
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.sourcelink.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.APLICACION-RRHH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.build.APLICACION-RRHH.props
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APLICACION-RRHH.props
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APLICACION-RRHH.props
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\scopedcss\bundle\APLICACION-RRHH.styles.css
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACI.FB229B0B.Up2Date
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\refint\APLICACION-RRHH.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.pdb
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\APLICACION-RRHH.genruntimeconfig.cache
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\obj\Debug\net8.0\ref\APLICACION-RRHH.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hector.contreras\Downloads\Poyecto\ProyectoBD-RH\APLICACION-RRHH\APLICACION-RRHH\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll

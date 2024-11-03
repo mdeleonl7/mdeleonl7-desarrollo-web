@@ -24,3 +24,6 @@ Se encuentra en el módulo: "segundo-parcial" donde encontrará todo lo necesari
 
 ### Proyecto final
 Se encuentra en el módulo: "proyecto-final" donde encontrará el backend.
+
+### Evaluacion final
+Se encuentra en el módulo: "examen-final" donde encontrará lo relacionado a la segunda serie del examen final.
